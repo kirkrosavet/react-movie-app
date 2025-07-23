@@ -302,6 +302,7 @@ body{
   max-width: 600px;
 }
 
+
 .intro p{
   background-color: #000000a4;
   padding: 10px;
@@ -517,7 +518,13 @@ body{
 }
 
 .footer-top {
-  margin-bottom: 20px;
+  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+ 
+
 }
 
 .footer-nav {
@@ -526,7 +533,7 @@ body{
   display: flex;
   justify-content: center;
   gap: 15px;
-  margin-top: 10px;
+  left: auto;
 }
 
 .footer-nav li a {
@@ -574,8 +581,9 @@ body{
 }
 
 .footer-contact a {
-  color: #4da6ff;
+  color: #eaf1f8;
   text-decoration: none;
+  font-size: larger;
 }
 
 .footer-contact a:hover {

@@ -13,7 +13,7 @@ function Home() {
                 , and offering a definitive end to the Skywalker saga</p>
            </div>
            <div className="up">
-                <p>| 2022 | 2 seasons |⭐⭐⭐⭐⭐ 5.6</p>
+                <p>| PLAY▶️ | ➕Playlist |⭐⭐⭐⭐⭐ 5.6|</p>
         
             </div>
 

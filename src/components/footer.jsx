@@ -45,6 +45,7 @@ function Footer() {
         <a href="#">About Us</a>
         <a href="#">Careers</a>
         <a href="#">Help Center</a>
+        <a href="#">Feedback</a>
       </div>
 
       <div className="footer-contact">
